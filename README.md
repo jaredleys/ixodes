@@ -1,2 +1,2 @@
 # ixodes
-Visualizations of tick species reports in the United States.
+Review of tick species reports in the United States.
